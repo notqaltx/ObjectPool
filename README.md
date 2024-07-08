@@ -1,7 +1,7 @@
 # ObjectPool Module
 
 ## Overview
-The `ObjectPool` module provides a mechanism for efficiently managing objects in Roblox games without causing FPS drops. It allows objects to be reused rather than recreated, optimizing performance and resource usage.
+The `ObjectPool` module provides a mechanism for efficiently managing objects without causing FPS drops. It allows objects to be reused rather than recreated, optimizing performance and resource usage.
 
 ## Usage
 
