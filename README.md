@@ -52,7 +52,7 @@ pool:ReturnObject(obj2)
 
 ## Links
 
-- [GitHub Repository](https://github.com/notqaltx/ObjectPool.git)
+- [Roblox DevForum Page](https://devforum.roblox.com/t/objectpool-module-for-cloning-objects-without-lags/3059330)
 - [Creator's YouTube Channel](https://youtube.com/@qaltx)
 
 -- Programmed by notqaltx (@qaltx)

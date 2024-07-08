@@ -50,6 +50,7 @@
 	```
 	
 	GitHub: https://github.com/notqaltx/ObjectPool.git
+	Roblox DevForum: https://devforum.roblox.com/t/objectpool-module-for-cloning-objects-without-lags/3059330
 	Creator's YouTube: https://youtube.com/@qaltx
 	
 	-- Programmed by notqaltx (@qaltx)
